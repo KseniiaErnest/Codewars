@@ -16,3 +16,5 @@ function whoTookTheCarKey(message) {
 // 3. String.fromCharCode() is then used to convert the integer back into a character. This character is based on the ASCII code value.
 // 4. Convert array into a string with join().
 // 5. replace(/\,/g, '') is used to replace all commas
+
+
